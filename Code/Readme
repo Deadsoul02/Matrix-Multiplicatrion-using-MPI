@@ -1,0 +1,7 @@
+In code folder we have 6 files.
+Serial_matrix_multiplication.py consist of simple python code to generate 100*100 matrixs and multiplies both matrix 
+Parallel_matrix_multiplication.py is python file which calculate Matrix mltiplication using MPI for 100*100 matrix
+Graph_table.ipynb consist of jupyter python code to make Graph and  Table
+Serial-loop-2.py has same code has simple serial code but it calulates Matrix of size 300 -3000 in loop
+Parallel-loop-2.py has same code has simple parallel code but it calulates Matrix of size 300-3000 in loop
+mpi-test.py consist of simple MPI code
